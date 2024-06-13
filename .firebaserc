@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "expenses-control-angular-app",
+    "dist": "expenses-control-angular-app"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
